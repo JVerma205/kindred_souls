@@ -1,3 +1,4 @@
+Please refer to /airbnb_kindred_souls(1).pptx for details of the project. Following are the list of files in the project folder.
 Data:
 1. calendar.csv
 2. listings.csv
@@ -14,3 +15,4 @@ Other files:
 requirements.txt - contains the list of required python libs for the project.
 ReadMe.txt
 Images/ - Folder containing images
+airbnb_kindred_souls(1) - ppt on the project
