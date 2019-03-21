@@ -1,0 +1,9 @@
+# Ignore the local virtual env folder
+/.venv/
+
+# Ignore the pycharm config folder
+/.idea/
+
+# Ignore archiv
+/archiv/
+
